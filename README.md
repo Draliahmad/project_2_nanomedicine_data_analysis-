@@ -2,12 +2,10 @@
 # Nanomedicine Formulation Data Analysis
 ## Graphical Abstract
 
-## Graphical Abstract
-
-<img src="graphical_abstract.png" width="900"/>
+<img src="graphical-abstract.png" width="900"/>
 
 **Graphical Abstract | Nanomedicine formulation data analysis.**  
-Summary of dataset, statistical analysis, key physicochemical relationships, and clinical relevance of nanostructured lipid carrier (NLC) formulations.
+Schematic overview of the workflow integrating formulation dataset analysis, statistical modelling, and interpretation of key physicochemical relationships (particle size, PDI, zeta potential, and encapsulation efficiency) to support rational design of nanostructured lipid carrier (NLC) systems.
 
 ## Objective
 To analyse nanostructured lipid carrier (NLC) formulation data using
