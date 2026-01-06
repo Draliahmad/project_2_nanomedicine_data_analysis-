@@ -16,6 +16,19 @@ and encapsulation efficiency.
 - Correlation analysis
 - PCA
 - Regression analysis
+## Results & Visualisations
+
+### Correlation Heatmap
+![Correlation heatmap of NLC formulation parameters](heatmap_correlation.png)
+
+### Particle Size vs Encapsulation Efficiency
+![Particle size vs encapsulation efficiency](size_vs_EE.png)
+
+### PDI vs Encapsulation Efficiency
+![PDI vs encapsulation efficiency](PDI_vs_EE.png)
+
+### Zeta Potential vs PDI
+![Zeta potential vs PDI](ZP_vs_PDI.png)
 
 ## Tools
 Python, pandas, matplotlib, seaborn, scikit-learn
